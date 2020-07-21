@@ -11,7 +11,7 @@ require (
 	github.com/gardener/external-dns-management v0.7.7
 	github.com/gardener/gardener-resource-manager v0.13.1
 	github.com/gardener/hvpa-controller v0.2.5
-	github.com/gardener/machine-controller-manager v0.27.0
+	github.com/gardener/machine-controller-manager v0.33.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-logr/logr v0.1.0
 	github.com/go-openapi/spec v0.19.3
@@ -27,7 +27,6 @@ require (
 	github.com/onsi/gomega v1.8.1
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.3.0
-	github.com/prometheus/common v0.6.0
 	github.com/robfig/cron v1.2.0
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.6
